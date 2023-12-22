@@ -29,9 +29,14 @@ header * {
 
 header ul {
     padding: 0;
+    display: inline-block;
 }
 
 header li {
+    margin-left: 20px;
+    display: inline-block;
+}
+li {
     margin-left: 20px;
     display: inline-block;
 }
