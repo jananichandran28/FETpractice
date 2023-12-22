@@ -40,6 +40,10 @@ li {
     margin-left: 20px;
     display: inline-block;
 }
+address {
+  display: block;
+  font-style: italic;
+}
 
 section {
     height: 100vh;
